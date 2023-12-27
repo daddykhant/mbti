@@ -1,5 +1,5 @@
 import MBTIResult from "./screens/MBTIResult";
-import MBTITest from "./screens/mbtiTest";
+import MBTITest from "./screens/MBTITest";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import Welcome from "./screens/welcome";
 
